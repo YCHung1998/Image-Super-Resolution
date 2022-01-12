@@ -30,8 +30,18 @@ Here the ```model``` fold we apply [saeed-anwar/DRLN](https://github.com/saeed-a
 |    ├─ valid  #  YOU CAN FIND VALID PIC YOURSELF
 |    │     ├─ yyy.png
 |    │     │     .
-|    └─    └─ yyyy.png
-|
+|    |     └─ yyyy.png
+|    |
+|    ├─ Train   # after conducting create_train_pairs.py will appears
+|    |    ├─ HR
+|    |    |  └─ 3x ...
+|    |    └─ LR
+|    |       └─ 3x ...
+|    ├─ Valid   # Same like above
+|    |    ├─ HR
+|    |    |  └─ 3x ...
+|    |    └─ LR
+|    |       └─ 3x ...
 ├── model/  
 |    ├─ commom.py
 |    ├─ drln.py
