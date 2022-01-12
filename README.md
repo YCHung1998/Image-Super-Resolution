@@ -64,6 +64,14 @@ Here the ```model``` fold we apply [saeed-anwar/DRLN](https://github.com/saeed-a
 
 ```
 
+Generate the answer in ```answer``` folder
+---
+weights_fold : decide where the weight you load.  
+weights : weight.  
+save_fold : your save location.    
+```
+python inference.py --weights_fold weights --weights 895_31.3226.pth --save_fold answer --transforms True
+```
 
 Training
 ---
@@ -81,15 +89,6 @@ Here the bicubic is the traditional and basic method, PSNR at least 26.
 | ------------- |:-------------:|:-------------:|:-------------:|
 | PSNR| 26.0654 | 27.4162 |28.0441|
 
-
-Generate the answer in ```answer``` folder
----
-weights_fold : decide where the weight you load.  
-weights : weight.  
-save_fold : your save location.    
-```
-python inference.py --weights_fold weights --weights 895_31.3226.pth --save_fold answer --transforms True
-```
 Thanks to 
 ---
 Here we apply the model from  
