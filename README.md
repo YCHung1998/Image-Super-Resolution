@@ -2,7 +2,7 @@
 
 Data Prepare
 ---
-Before training model, we eed to create the LR image by applying ```create_train_pairs.py``` and ```create_valid_pairs.py``` these two codes.
+Before training model, we need to create the LR image from HR  by applying ```create_train_pairs.py``` and ```create_valid_pairs.py``` these two codes.
 
 <!-- Requirement -->
 <!-- --- -->
