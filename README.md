@@ -1,5 +1,6 @@
 # Image-Super-Resolution
-Here we deal with the task that need to upscale the LR image to HR in scale=3.
+Here we deal with the task that need to upscale the LR image to HR in scale=3.  
+And the evaluate the performance metric is PSNR. 
 
 Data Prepare
 ---
