@@ -1,4 +1,5 @@
 # Image-Super-Resolution
+Here we deal with the task that need to upscale the LR image to HR in scale=3.
 
 Data Prepare
 ---
