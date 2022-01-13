@@ -68,6 +68,7 @@ Here the ```model``` fold we apply [saeed-anwar/DRLN](https://github.com/saeed-a
 
 Generate the answer in ```answer``` folder
 ---
+Before conduct the following command, be sure you had download the weight or trained it by yourself. 
 weights_fold : decide where the weight you load.  
 weights : weight.  
 save_fold : your save location.    
