@@ -1,4 +1,6 @@
 # Image-Super-Resolution
+![image](https://user-images.githubusercontent.com/93210989/190902049-4a7d2a31-9b63-4e07-b344-972a81fc3d54.png)
+
 Here we deal with the task that need to upscale the LR image to HR in scale=3.  
 And the evaluate the performance metric is PSNR. 
 
